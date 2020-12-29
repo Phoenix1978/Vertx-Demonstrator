@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Phoenix1978/Vertx-Demonstrator/main/icon.png" alt="" width=200/>  
 
-##Description
+## Description
 This project aims on helping understand the use of Vertx, not a project to be used as it.
 [Wikipedia:](https://en.wikipedia.org/wiki/Vert.x) : Eclipse Vert.x is a polyglot event-driven application framework that runs on the Java Virtual Machine
 It is composed by the mix of many tutorial I did to understand many aspect of this framework : [VertX](https://vertx.io/docs/)
