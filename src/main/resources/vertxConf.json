@@ -1,0 +1,4 @@
+{
+	"http.port.helloService":1006,
+	"http.port.dogService":1005
+}
