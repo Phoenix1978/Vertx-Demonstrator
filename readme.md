@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Phoenix1978/Vertx-Demonstrator/main/icon.png" alt="" width=100/>  
+# <img src="https://raw.githubusercontent.com/Phoenix1978/Vertx-Demonstrator/main/icon.png" alt="" width=200/>  
 
 ##Description
 This project aims on helping understand the use of Vertx, not a project to be used as it.
